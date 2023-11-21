@@ -1,4 +1,7 @@
 ## Important AMP Directories
 
 ### AMP Data Directory
-`/home/amp/.ampdata`
+    /home/amp/.ampdata
+
+
+[< Back](index.md)
